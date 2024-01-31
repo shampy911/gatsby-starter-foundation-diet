@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Poshan Mantra
+tagline: Transforming Lives Through Nutrition
+featuredImage: /assets/poshanmantra.webp
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Welcome to Poshan Mantra – your trusted partner in the journey towards a healthier you. Our clinical nutritionists offer personalized therapeutic diet plans to help you achieve your wellness goals. From weight management to diabetes management, we have a solution for all your nutritional need.
